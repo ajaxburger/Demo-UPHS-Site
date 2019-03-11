@@ -1,3 +1,8 @@
+Transcend is a template originally created by "Joefrey" and posted to Colorlib on a Creative Commons 3.0 license. This site is a concept demo for the Upper Perkiomen
+School District website. The files will be updated to fit the concept, using Transcend as a base.
+
+All edits are made by Andrew Niziolek unless otherwise noted in this repository or its forks.
+
 ==================================================================================================
 
 DESCRIPTION:
